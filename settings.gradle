@@ -1,4 +1,4 @@
-rootProject.name = 'wheathernorris'
+rootProject.name = 'weathernorris'
 
 include 'library'
 include 'moviegrabber'
